@@ -1,0 +1,2 @@
+#include "basemanager.h"
+
